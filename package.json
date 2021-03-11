@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Student",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.33"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pw-2021q1/atv03-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pw-2021q1/atv03-typescript/issues"
+  },
+  "homepage": "https://github.com/pw-2021q1/atv03-typescript#readme"
 }
