@@ -23,6 +23,7 @@ class Dado  {
  
 
 let qntDados = 10
+
 var dados : Array<Dado> = new Array();
 
 
